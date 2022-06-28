@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="clickableAreas">
+        <item>
+            <string>masjid</string>
+            <class>MasjidActivity</class>
+        </item>
+
+    </array>
+</resources>

@@ -1,0 +1,24 @@
+{
+  "data":[
+    {
+      "name":"first stop",
+      "timestamp" : 10000,
+      "annotations": [
+        { "hitboxName": "clock" ,
+          "hitboxRect" : [120,28,140,0],
+          "type" : "audio" ,
+          "resourceName" : "clock" }
+      ]
+    },
+    {
+      "name":"second stop",
+      "timestamp" : 40000,
+      "annotations": [
+        { "hitboxName": "sign" ,
+          "hitboxRect" : [-5,8,38,-10],
+          "type" : "XMLbox" ,
+          "resourceName" : "sign" }
+      ]
+    }
+  ]
+}

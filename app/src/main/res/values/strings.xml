@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Amman Citadel</string>
+    <string name="start_button">start experience</string>
+    <string name="continue_">continue</string>
+    <string name="the_end">THE END</string>
+    <string name="gate">image of amman citadel gate</string>
+    <string name="crosshair">crosshair</string>
+</resources>
